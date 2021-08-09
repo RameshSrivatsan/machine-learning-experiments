@@ -1,2 +1,2 @@
 # machine-learning-experiments
-A repo where every model is written from scratch and different approaches to solve a problem are explored.
+A repo where every model and optimiser is written from scratch and compared against models in commonly used frameworks such as Tensorflow, Sci-kit Learn.
